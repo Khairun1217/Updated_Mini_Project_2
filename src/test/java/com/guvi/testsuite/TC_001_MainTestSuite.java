@@ -38,7 +38,7 @@ import com.guvi.pageObjects.SignupPage;
 import dataProviders.GetTestData;
 
 
-public class MainTestSuite  extends BaseTest{
+public class TC_001_MainTestSuite  extends BaseTest{
 private ExtentReports extent;
 private ExtentTest test;
 private String username;
